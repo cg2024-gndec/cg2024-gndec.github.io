@@ -1,5 +1,7 @@
 # Guru Nanak Dev Engineering College
 
+![](download2024.png)
+
 |Content|
 |:-----:|
 |[PROFESSIONAL COMMUNICATION](https://cg2024-gndec.github.io/profcom2024)|
