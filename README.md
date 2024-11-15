@@ -6,6 +6,6 @@
 |:-----:|
 |[PROFESSIONAL COMMUNICATION](https://cg2024-gndec.github.io/profcom2024)|
 |[MATHEMATICS-1]()|
-|[CHEMISTRY]()|
+|[CHEMISTRY](https://cg2024-gndec.github.io/chemistrysyllabus/)|
 |[PROGRAMMING & PROBLEM SOLVING WITH C++](https://cg2024-gndec.github.io/ppssyllabus/)|
 |[BASIC ELECTRICAL AND ELECTRONICS ENGINEERING](https://cg2024-gndec.github.io/beee)|
