@@ -2,10 +2,10 @@
 
 ![](download2024.png)
 
-|Content|
-|:-----:|
-|[PROFESSIONAL COMMUNICATION](https://cg2024-gndec.github.io/profcom2024)|
-|[MATHEMATICS-1]()|
-|[CHEMISTRY](https://cg2024-gndec.github.io/chemistrysyllabus/)|
-|[PROGRAMMING & PROBLEM SOLVING WITH C++](https://cg2024-gndec.github.io/ppssyllabus/)|
-|[BASIC ELECTRICAL AND ELECTRONICS ENGINEERING](https://cg2024-gndec.github.io/beee)|
+|Content 1| Content 2 |
+|:-------:|:---------:|
+|[PROFESSIONAL COMMUNICATION](https://cg2024-gndec.github.io/profcom2024)|[ECONOMICS]()|
+|[MATHEMATICS-1]()|[MATHEMATICS-2]()|
+|[CHEMISTRY](https://cg2024-gndec.github.io/chemistrysyllabus/)|[PHYSICS]()|
+|[PROGRAMMING & PROBLEM SOLVING WITH C++](https://cg2024-gndec.github.io/ppssyllabus/)|[PROGRAMMING FUNDAMENTALS USING PYTHON]()|
+|[BASIC ELECTRICAL AND ELECTRONICS ENGINEERING](https://cg2024-gndec.github.io/beee)|[ENGINEERING DRAWING(EDG)]()|
